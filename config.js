@@ -13,5 +13,5 @@ module.exports = {
     linkedin: 'https://www.linkedin.com/in/lfribeiro/',
   },
   pathPrefix: '/',
-  siteUrl: 'https://agitated-goldwasser-987115.netlify.com/',
+  siteUrl: 'https://lribeiro.netlify.com/',
 };
