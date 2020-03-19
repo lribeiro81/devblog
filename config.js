@@ -12,6 +12,6 @@ module.exports = {
     twitter: 'https://twitter.com/the_intern_says',
     linkedin: 'https://www.linkedin.com/in/lfribeiro/',
   },
-  pathPrefix: '',
+  pathPrefix: '/',
   siteUrl: 'https://agitated-goldwasser-987115.netlify.com/',
 };
